@@ -1,0 +1,32 @@
+{
+  "name": "Söz dünyası",
+  "logo": "https://telegra.ph/file/1cc86bcc6714c3a2bb724.jpg",
+  "description": "Telegram söz tap oyun",
+  "env": {
+    "API_ID": {
+      "description": "@otomytelegrambot dan api hash api id alınız.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "@otomytelegrambot dan api hash api id alınız.",
+      "value": ""
+    },
+    "TOKEN": {
+      "description": "@botfather den aldığınız tokeni giriniz",
+      "value": ""
+    },
+    "USERNAME": {
+      "description": "Kullanıcı adınızı giriniz.",
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "Bot Sahibinin İD girin.",
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-python.git"
+    }
+  ]
+}
