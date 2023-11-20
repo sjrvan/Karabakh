@@ -14,8 +14,8 @@ keyboard = InlineKeyboardMarkup([
         InlineKeyboardButton("➕Qrupa Əlavə Et➕", url=f"http://t.me/sozoyunurobot?startgroup=new")
     ],
     [
-        InlineKeyboardButton("👑𝐎𝐰𝐧𝐞𝐫", url="t.me/B9SSD7"),
-        InlineKeyboardButton("🆘𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url="t.me/bossbotsazhelp"),
+        InlineKeyboardButton("👑Blog", url="t.me/chinara_blog"),
+        InlineKeyboardButton("🆘Mafia Qrupumuz", url="t.me/kmmafiaa"),
     ]
 ])
 
